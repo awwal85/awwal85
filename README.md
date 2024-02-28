@@ -1,8 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://imgs.search.brave.com/E2byALhlpMAw4T0m12j61cmXchQi-iirGkrAGHTmL6E/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9ibG9n/Lmh1YnNwb3QuY29t/L2hzLWZzL2h1YmZz/L2ludGVyYWN0aXZl/LWRhdGEtdmlzdWFs/aXphdGlvbi1leGFt/cGxlLTQucG5nP3dp/ZHRoPTEwMjImbmFt/ZT1pbnRlcmFjdGl2/ZS1kYXRhLXZpc3Vh/bGl6YXRpb24tZXhh/bXBsZS00LnBuZw)
+![MasterHead](https://imgs.search.brave.com/U1L5jHVsTXr98qLdw-LMITLANdoT7tHB0A8j1IjzsDQ/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA2LzExLzg0LzYz/LzM2MF9GXzYxMTg0/NjM1MF9DU1dzbVlE/VXRET1VWb1pKR1R4/MUYyeXZsTUlqMWpl/VS5qcGc)
 
 <h1 align="center">Hi 👋, I'm Mohammed Awwal Alidu</h1>
 <h3 align="center">An inquisitive data analyst from Swansea, United Kingdom, who has an enthusiastic passion for the field</h3><
-<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/4c_cr2pmFW9Ola2luVs-YjZ6BKDwWNXk0baGSW23hfI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/YW5hbHl0aWNzZGF0/YS5uZXQvdGhlbWVz/L2FsdHVtL2Fzc2V0/cy9pbWFnZXMvaW5k/ZXgvcmVhbHRpbWVf/ZGF0YS5zdmc.svg"
+<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/qeFfD5ao3TjO-Iuf1IiACtOnyl9n6mMCIB7LOdnMQzo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9vdWNo/LWNkbjIuaWNvbnM4/LmNvbS83eEVJQ2hx/R3AwWTA4RU0xSFdp/WlRVWWU2aHUzZkxi/VUIwOGY0OXBSTnF3/L3JzOmZpdDozNjg6/MjkwL2N6TTZMeTlw/WTI5dWN6Z3UvYjNW/amFDMXdjbTlrTG1G/ei9jMlYwY3k5emRt/Y3ZOakk1L0x6WmpO/V0kzWW1VeExUUTQv/TWpJdE5HSmlNUzFp/TnpjeS9MVFJoTmpj/MU16VmpNREUxL05D/NXpkbWMucG5n"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awwal85&label=Profile%20views&color=0e75b6&style=flat" alt="awwal85" /> </p>
 
