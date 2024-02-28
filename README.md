@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://imgs.search.brave.com/A9KKsw4c7FtMHhZtS326ebPguRUT-1LDn7LaJNbAlq8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/YW5hbHl0aWNzdmlk/aHlhLmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyMC8wNi90/YWJsZWF1X2FuaW1h/dGVkX2V4YW1wbGUu/Z2lm.gif)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://imgs.search.brave.com/E2byALhlpMAw4T0m12j61cmXchQi-iirGkrAGHTmL6E/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9ibG9n/Lmh1YnNwb3QuY29t/L2hzLWZzL2h1YmZz/L2ludGVyYWN0aXZl/LWRhdGEtdmlzdWFs/aXphdGlvbi1leGFt/cGxlLTQucG5nP3dp/ZHRoPTEwMjImbmFt/ZT1pbnRlcmFjdGl2/ZS1kYXRhLXZpc3Vh/bGl6YXRpb24tZXhh/bXBsZS00LnBuZw)
 
 <h1 align="center">Hi 👋, I'm Mohammed Awwal Alidu</h1>
 <h3 align="center">An inquisitive data analyst from Swansea, United Kingdom, who has an enthusiastic passion for the field</h3><
